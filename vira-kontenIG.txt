@@ -1,11 +1,13 @@
 Rencana Konten IG dan Youtube Vira
 - Rapihin Profile IG jadi profesional 
   * Fokus Data engineering atau jadi data analyst
+    ^Jangan lupa juga dokumentasiin project kamu ke ig 
   * Jangan malu buat upload apapun mengenai data 
   * Jangan Terlalu perfectionist
 - Bikin konten pertama mengenai Data
   * Bikin konten slide gambar dulu ajaa
   * Coba beberapa konten , vidio pendek , story telling, dll
+    ^ Upload project kamu mengenai data di github dan uload di linkedin
 - Bikin vidio pertama di youtube
 - belajar ngomong di depan kamera 
 - Bikin vlog mengenai kegiatan sehari hari di uploadh di youtube 
